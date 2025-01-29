@@ -22,6 +22,23 @@ A aplicação consiste em uma lista de games com suas respectivas categorias, co
 - Banco de dados: Postgresql
 
 
+#Conceitos
+- Padrão Rest para API web
+- Estruturação de projeto Spring Rest
+- Entidades e ORM
+- Database seeding
+- Padrão camadas (Controller, service e repository)
+- Padrão DTO
+- Classe de associação, embedded id
+- Consultas sql no Spring Data JPA
+- Ambiente local com docker compose
+- Processo de homologação local
+- Processo de deploy com CI/CD
+- Configuração de CORS
+- Design e implementação de endpoint especial
+- 
+
+
 # Autor
 
 Giovanna Grangeiro Vanderlei 
