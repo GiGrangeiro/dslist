@@ -22,7 +22,7 @@ A aplicação consiste em uma lista de games com suas respectivas categorias, co
 - Banco de dados: Postgresql
 
 
-#Conceitos
+# Conceitos
 - Padrão Rest para API web
 - Estruturação de projeto Spring Rest
 - Entidades e ORM
@@ -36,7 +36,7 @@ A aplicação consiste em uma lista de games com suas respectivas categorias, co
 - Processo de deploy com CI/CD
 - Configuração de CORS
 - Design e implementação de endpoint especial
-- 
+  
 
 
 # Autor
